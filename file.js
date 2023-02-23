@@ -38,6 +38,38 @@ for (let i = 0; i < 28; i++) {
 //     let offset = (i - 5) * (verticalSpacing * 0.1);
 //     x += offset;
 //     }
+//     if (i === 9) {
+//     let offset = (i - 5) * (verticalSpacing * 0.1);
+//     x += offset;
+//     }
+//     if (i === 10) {
+//     let offset = (i - 5) * (verticalSpacing * 0.1);
+//     x += offset;
+//     }
+//     if (i === 11) {
+//     let offset = (i - 5) * (verticalSpacing * 0.1);
+//     x += offset;
+//     }
+//     if (i === 12) {
+//     let offset = (i - 5) * (verticalSpacing * 0.1);
+//     x += offset;
+//     }
+//     if (i === 13) {
+//     let offset = (i - 5) * (verticalSpacing * 0.1);
+//     x += offset;
+//     }
+//     if (i === 14) {
+//     let offset = (i - 5) * (verticalSpacing * 0.1);
+//     x += offset;
+//     }
+//     if (i === 15) {
+//     let offset = (i - 5) * (verticalSpacing * 0.1);
+//     x += offset;
+//     }
+//     if (i === 16) {
+//     let offset = (i - 5) * (verticalSpacing * 0.1);
+//     x += offset;
+//     }
 
   ctx.beginPath();
   ctx.moveTo(x, y1);
